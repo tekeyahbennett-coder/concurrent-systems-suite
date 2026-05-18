@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\bin\Debug\net8.0\Programming Assignment 2- Operating Systems.exe
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\bin\Debug\net8.0\Programming Assignment 2- Operating Systems.deps.json
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\bin\Debug\net8.0\Programming Assignment 2- Operating Systems.runtimeconfig.json
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\bin\Debug\net8.0\Programming Assignment 2- Operating Systems.dll
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\bin\Debug\net8.0\Programming Assignment 2- Operating Systems.pdb
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\Programming Assignment 2- Operating Systems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\Programming Assignment 2- Operating Systems.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\Programming Assignment 2- Operating Systems.AssemblyInfo.cs
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\Programming Assignment 2- Operating Systems.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\Programming Assignment 2- Operating Systems.dll
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\refint\Programming Assignment 2- Operating Systems.dll
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\Programming Assignment 2- Operating Systems.pdb
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\Programming Assignment 2- Operating Systems.genruntimeconfig.cache
+C:\Users\tekey\Documents\Op Systems\Programming Assignment 2- Operating Systems\Programming Assignment 2- Operating Systems\obj\Debug\net8.0\ref\Programming Assignment 2- Operating Systems.dll

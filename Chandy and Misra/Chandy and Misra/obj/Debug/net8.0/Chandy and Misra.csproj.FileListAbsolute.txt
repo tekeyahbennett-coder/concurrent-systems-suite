@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\bin\Debug\net8.0\Chandy and Misra.exe
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\bin\Debug\net8.0\Chandy and Misra.deps.json
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\bin\Debug\net8.0\Chandy and Misra.runtimeconfig.json
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\bin\Debug\net8.0\Chandy and Misra.dll
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\bin\Debug\net8.0\Chandy and Misra.pdb
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\Chandy and Misra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\Chandy and Misra.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\Chandy and Misra.AssemblyInfo.cs
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\Chandy and Misra.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\Chandy and Misra.dll
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\refint\Chandy and Misra.dll
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\Chandy and Misra.pdb
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\Chandy and Misra.genruntimeconfig.cache
+C:\Users\tekey\Documents\Op Systems\Chandy and Misra\Chandy and Misra\obj\Debug\net8.0\ref\Chandy and Misra.dll

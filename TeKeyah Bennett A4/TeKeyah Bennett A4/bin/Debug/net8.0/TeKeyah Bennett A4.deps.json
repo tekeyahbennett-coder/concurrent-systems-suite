@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TeKeyah Bennett A4/1.0.0": {
+        "runtime": {
+          "TeKeyah Bennett A4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeKeyah Bennett A4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

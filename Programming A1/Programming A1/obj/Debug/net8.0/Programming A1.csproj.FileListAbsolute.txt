@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\bin\Debug\net8.0\Programming A1.exe
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\bin\Debug\net8.0\Programming A1.deps.json
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\bin\Debug\net8.0\Programming A1.runtimeconfig.json
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\bin\Debug\net8.0\Programming A1.dll
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\bin\Debug\net8.0\Programming A1.pdb
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\Programming A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\Programming A1.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\Programming A1.AssemblyInfo.cs
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\Programming A1.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\Programming A1.dll
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\refint\Programming A1.dll
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\Programming A1.pdb
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\Programming A1.genruntimeconfig.cache
+C:\Users\tekey\Documents\Op Systems\Programming A1\Programming A1\obj\Debug\net8.0\ref\Programming A1.dll
