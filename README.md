@@ -55,28 +55,25 @@ Solves the classic bounded buffer problem using semaphores and a mutex lock.
 
 ```
 concurrent-systems-suite/
-├── Chandy and Misra/              # Dining Philosophers project
-│   ├── Chandy and Misra/
-│   │   └── Program.cs             # Main implementation (180 lines)
-│   └── Chandy and Misra.sln
-├── Programming A1/                # FIFO Demand Paging project
-│   ├── Programming A1/
-│   │   └── Program.cs             # Paging simulator (86 lines)
-│   └── Programming A1.sln
-├── Programming Assignment 2- Operating Systems/   # FCFS Scheduling project
-│   ├── Programming Assignment 2- Operating Systems/
-│   │   └── Program.cs             # Scheduling simulator (66 lines)
-│   └── Programming Assignment 2- Operating Systems.sln
-├── TeKeyah Bennett A4/            # Producer-Consumer project
-│   ├── TeKeyah Bennett A4/
-│   │   └── Program.cs             # Sync implementation (71 lines)
-│   └── TeKeyah Bennett A4.sln
-├── TeKeyah Bennett DE 1.docx      # Discussion Essay 1 — Memory Management
-├── TeKeyah Bennett DE 2.docx      # Discussion Essay 2 — Resource Allocation Graphs
-├── TeKeyah Bennett DE 3.docx      # Discussion Essay 3 — Working Directories & ACLs
-├── Chandy and Misra.zip           # Zipped project archive
-├── Programming Assignment 2- Operating Systems.zip
-├── TeKeyah Bennett A4.zip
+├── Chandy and Misra/ # Dining Philosophers project
+│ ├── Chandy and Misra/
+│ │ └── Program.cs # Main implementation (180 lines)
+│ └── Chandy and Misra.sln
+├── Programming A1/ # FIFO Demand Paging project
+│ ├── Programming A1/
+│ │ └── Program.cs # Paging simulator (86 lines)
+│ └── Programming A1.sln
+├── Programming Assignment 2- Operating Systems/ # FCFS Scheduling project
+│ ├── Programming Assignment 2- Operating Systems/
+│ │ └── Program.cs # Scheduling simulator (66 lines)
+│ └── Programming Assignment 2- Operating Systems.sln
+├── TeKeyah Bennett A4/ # Producer-Consumer project
+│ ├── TeKeyah Bennett A4/
+│ │ └── Program.cs # Sync implementation (71 lines)
+│ └── TeKeyah Bennett A4.sln
+├── TeKeyah Bennett DE 1.docx # Discussion Essay 1 — Memory Management
+├── TeKeyah Bennett DE 2.docx # Discussion Essay 2 — Resource Allocation Graphs
+├── TeKeyah Bennett DE 3.docx # Discussion Essay 3 — Working Directories & ACLs
 └── README.md
 ```
 
